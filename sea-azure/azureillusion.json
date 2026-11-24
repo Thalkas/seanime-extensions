@@ -1,10 +1,10 @@
 {
   "id": "AzureIllusion-subs",
   "name": "AzureIllusion",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "language": "typescript",
   "type": "plugin",
-  "description": "Subtitles provider for Polish anime fan-made subtitles in Seanime.",
+  "description": "[TEST] Subtitles provider for Polish anime fan-made subtitles in Seanime.",
   "author": "Thalkas",
   "icon": "https://raw.githubusercontent.com/Thalkas/seanime-extensions/main/sea-azure/azureillusion-logo-v3.png",
   "website": "https://subs.azureillusion.ovh/account?tab=api",
